@@ -41,3 +41,22 @@ color:yellow;
 .food-tt img{ 
     widt:100%
 }
+.colour{
+    color: hotpink;
+
+}
+.net{
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10%;
+    box-shadow: 10px 15px 40px wheat;
+    width: 40%;
+    background-color: cornsilk;
+    border-radius: 5px;}
+ footer{
+     background-color: thistle;
+     color:tomato
+     
+ }
+
+    
